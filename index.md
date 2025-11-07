@@ -1,8 +1,3 @@
----
-layout: home
-title: DSC 180A – Methodology Assignment 4
----
-
 **Name & Email**  
 Ethan Flores — etflores@ucsd.edu
 
