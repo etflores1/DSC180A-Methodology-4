@@ -10,6 +10,7 @@ Mentor: Kyle Nero & Daniel Mathew
 ## Quarter 2 Project Proposal Brainstorm
 
 **What is the most interesting topic covered in your domain this quarter?**
+
 This quarter, the most interesting topic in our domain would be the experimenting with different machine learning and deep learning models to categorize the “category” column in our transaction dataset. I began with classical approaches such as logistic regression and random forests, then transitioned to deep learning models, including neural network architectures and transformer-based models from platforms like Hugging Face. Comparing these approaches helped me understand how model complexity, representation learning, and domain-specific architectures affect classification performance in real-world financial data.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**  
